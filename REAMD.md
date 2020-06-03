@@ -42,6 +42,10 @@ Diagrama de entidad relacion (E-R)
 ![sql](https://user-images.githubusercontent.com/51840139/83662665-72031d80-a58d-11ea-97a0-c11fa3040a5e.png)
 
 
+![name](https://user-images.githubusercontent.com/51840139/83663882-e25e6e80-a58e-11ea-8727-3c6cda4666dd.png)
+
+
+
 -- phpMyAdmin SQL Dump
 -- version 4.8.4
 -- https://www.phpmyadmin.net/
